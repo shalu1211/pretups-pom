@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-21T08:29:35Z" name="Suite" finished-at="2019-10-21T08:29:45Z" duration-ms="9649">
+    <groups>
+    </groups>
+    <test started-at="2019-10-21T08:29:35Z" name="Test" finished-at="2019-10-21T08:29:45Z" duration-ms="9649">
+      <class name="comviva.com.pretups.HomePage">
+        <test-method is-config="true" signature="initializeChrome()[pri:0, instance:comviva.com.pretups.HomePage@43df23d3]" started-at="2019-10-21T08:29:35Z" name="initializeChrome" finished-at="2019-10-21T08:29:45Z" duration-ms="9321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeChrome -->
+        <test-method signature="basePageNavigation()[pri:0, instance:comviva.com.pretups.HomePage@43df23d3]" started-at="2019-10-21T08:29:45Z" name="basePageNavigation" finished-at="2019-10-21T08:29:45Z" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:comviva.com.pretups.HomePage@43df23d3]" started-at="2019-10-21T08:29:45Z" name="tearDown" finished-at="2019-10-21T08:29:45Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- comviva.com.pretups.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
